@@ -15,3 +15,6 @@ optimize defi investment to get a higher yield
 ### implementation in your own project (include defi building block that offer yield farming opportunities such as:)
 * staking - investor gets reward for locking tokens inside smart contract
 * liquidity mining - get token reward (governence token, in addition to trading fees/interest) in exchange for providing liquidity for an exchange or lending platform - https://github.com/Hsien-HsiuLiao/liquidity-mining
+
+### contracts
+https://github.com/studydefi/money-legos/blob/master/src/dydx/contracts/ISoloMargin.sol
